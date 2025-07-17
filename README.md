@@ -10,5 +10,5 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/IPChecker.git
+   git clone https://github.com/kshrh/IPChecker.git
    cd IPChecker
